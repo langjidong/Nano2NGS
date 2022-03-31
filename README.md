@@ -14,10 +14,10 @@ Option
 
         -fq		<Input File>			Input fq.gz file
         -read_len	<To NGS-Liked Read Length>	Extracted Nanopore read to NGS-Liked read length, default is 101bp
-        -position_step	<Step Size>			The step size for hotspot site on the NGS-Liked reads, default is 10
+        -position_step  <Step Size>			The step size for hotspot site on the NGS-Liked reads, default is 10
         -configure	<Hotspot BED File>		Hotspot bed file, the format likes: chr\tstart\tend\tgene symbol\tmutation\ttranscription ID (optional)
         -process	<Number of process used>	N processes to use, default is 1
-        -help						print HELP message
+        -help					print HELP message
 
 Example:
 
@@ -31,9 +31,9 @@ Usage:
 
 Option
 
-        -fq 		<Input_File>    		Input .fastq .fq file's
-        -read_len  	<Extract Read Length>   	Extract sequencing read length. Suggest more than 75bp.
-        -time		<Number of Swipes>		The number of swipes for the extract the reads
+        -fq 		<Input_File>    	Input .fastq .fq file's
+        -read_len  	        <Extract Read Length>   Extract sequencing read length. Suggest more than 75bp.
+        -time		<Number of Swipes>	The number of swipes for the extract the reads
         -help   					print HELP message
 
 Example:
