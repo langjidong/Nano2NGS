@@ -1,6 +1,6 @@
 # Nano2NGS - Developed by Jidong Lang (langjidong@hotmail.com)
 
-Nano2NGS: A Framework for Converting Third-Generation Sequencing Data to NGS-Liked Sequencing Data for Hotspot Mutation Detection and Metagenomic Analysis
+Nano2NGS: A Framework for Converting Nanopore Sequencing Data to NGS-Liked Sequencing Data for Hotspot Mutation Detection and Metagenomic Analysis
 
 The Nano2NGS as a data analysis framework for hotspot mutation detection and metagenomic analysis based on long reads from nanopore sequencing. The Nano2NGS’s main idea is characterized by applying nanopore sequencing data to NGS-liked data analysis pipelines. Long reads can be converted into short reads and then processed through existing NGS analysis pipelines in combination with statistical methods. Nano2NGS not only effectively avoids false positive/negative results caused by non-random errors and unexpected insertions-deletions (indels) of nanopore sequencing data, improves the reads efficient utilization, but also breaks the barriers of data analysis methods between short-read sequencing and long-read sequencing. We hope Nano2NGS can serves as a reference method for nanopore sequencing data, and promotes higher application scope of nanopore sequencing technology in scientific research and clinical practice.
 
