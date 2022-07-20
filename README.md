@@ -45,3 +45,7 @@ Important Notes and Extensions: The current version of the Nano2NGS framework on
 The Nano2NGS as an analytical framework also requires further development and optimization regarding computing resource consumption, running time, and statistical algorithms, among others, to minimize running time and resource consumption while ensuring the accuracy of analysis. In the future, we will develop algorithms for the detection of copy number variation, structural variation, gene fusion, and gene expression.
 
 BTW, if you have any good suggestions or comments for Nano2NGS, please don't hesitate to contact us, we look forward to communicating and discussing with you!
+
+**Publications**
+
+Lang J, Sun J, Yang Z, He L, He Y, Chen Y, Huang L, Li P, Li J, Qin L. Nano2NGS-Muta: a framework for converting nanopore sequencing data to NGS-liked sequencing data for hotspot mutation detection. NAR Genom Bioinform. 2022 Apr 21;4(2):lqac033. doi: 10.1093/nargab/lqac033. PMID: 35464239; PMCID: PMC9022462.
